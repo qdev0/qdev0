@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a private project :innocent:
 - 🌱 I’m currently learning **PHP** and **Docker**
 - 🤔 I’m looking for help with designing complex applications
-- 💬 Ask me about **Flutter**, **VueJS**, **PHP**, **Docker**, **Android**
+- 💬 Ask me about **Flutter**, **VueJS**, **PHP**, **Docker**, **Android**, **java**, **java spring**
 - 📫 How to reach me: **twitter@quantumitium**
 - ⚡ Fun fact: **^Geek O' Philomath^**
 
