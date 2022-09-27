@@ -1,4 +1,4 @@
 ### Hello
 
-I unfortunately like smoking hookah. 
+Legends say you can find me while smoking hookah
 
