@@ -13,14 +13,6 @@ I am a passionate software engineer who enjoys diving deep into technical challe
 - Game Development: Godot
 - Web Development: Architecture and Management
 
-### 🛠️ Tech Stack
-
-
-- 💻 Git, Docker
-- ☕ Java, PHP, JavaScript (Vue.js)
-- 🗄️ PostgreSQL, Neo4j, MySQL, MongoDB
-
-
 ### 🌱 Learning
 
 - 🎮 Game Development with Godot
