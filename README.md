@@ -1,29 +1,17 @@
-# Hello, I'm quanton-dev 👋
+# Hello there, I'm qdev0! 👋
 
-I am a passionate software engineer who enjoys diving deep into technical challenges. My expertise lies in a versatile tech stack, including:
+I'm a passionate software engineer who loves delving into complex challenges and exploring new horizons in technology. My core areas of focus include:
 
-- Version Control: Git
-- Containerization: Docker
-- Programming Languages: Java, PHP, JavaScript, Python, C#
-- Frontend: Vue.js
-- Databases: PostgreSQL, Neo4j, MySQL, MongoDB
+- **Prompt Engineering**  
+- **Architecture**  
+- **Computer Science Fundamentals**  
+- **Mathematics**  
 
-🚀 Currently, I am expanding my skills in:
-
-- Game Development: Godot
-- Web Development: Architecture and Management
-
-### 🌱 Learning
-
-- 🎮 Game Development with Godot
-- 🌐 Web Development: Architecture and Management
+---
 
 ### 📫 Let's Connect
 
-- GitHub: [quanton-dev](https://github.com/quanton-dev)
-- LinkedIn: [Yusuf Gunduz](https://www.linkedin.com/in/yusufgndz/)
-- Twitter: [@quantondev](https://twitter.com/quantondev)
+- **GitHub**: [quanton-dev](https://github.com/qdev0)  
+- **Twitter**: [@quantondev](https://twitter.com/qdev0)  
 
-Feel free to explore my repositories and connect with me. Happy coding! 🚀
-
-
+Happy coding! 🚀
