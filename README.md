@@ -1,17 +1,20 @@
-# Hello there, I'm qdev0! 👋
+# Hello, I'm qdev0! 
 
-I'm a passionate software engineer who loves delving into complex challenges and exploring new horizons in technology. My core areas of focus include:
+I'm a passionate developer who loves developing. Yes, that's all. Developing is what I do. Not just software. I develop food, systems and many more. Developing means creating gadgets. It does not have to be software. If you develop software but can't develop anything else you are not a developer you are a software developer...
+
+### My expertise 
 
 - **Prompt Engineering**  
 - **Architecture**  
 - **Computer Science Fundamentals**  
-- **Mathematics**  
+- **Mathematics**
+- **Gourmet Cooking**
+- **Astrophysics**
 
 ---
 
-### 📫 Let's Connect
+### Social
 
-- **GitHub**: [quanton-dev](https://github.com/qdev0)  
-- **Twitter**: [@quantondev](https://twitter.com/qdev0)  
+- **Twitter**: [@qdev0](https://twitter.com/qdev0)  
 
-Happy coding! 🚀
+Happy prompting...
