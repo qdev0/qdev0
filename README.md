@@ -1,20 +1,12 @@
 # Hello, I'm qdev0! 
 
-I'm a passionate developer who loves developing. Yes, that's all. Developing is what I do. Not just software. I develop food, systems and many more. Developing means creating gadgets. It does not have to be software. If you develop software but can't develop anything else you are not a developer you are a software developer...
+I'm a passionate developer who loves developing. I love creating things. Like food, softwqre, game builds or doing  survival sports like climbing, hiking or camping.
 
-### My expertise 
-
-- **Prompt Engineering**  
-- **Architecture**  
-- **Computer Science Fundamentals**  
-- **Mathematics**
-- **Gourmet Cooking**
-- **Astrophysics**
+Mt expertise in swe is architecture, streaming(mostly usage of ffmpeg), ci/cd with bash scripting in gh actions and reliable systems(which has 99.9999% uptime)
 
 ---
 
 ### Social
 
-- **Twitter**: [@qdev0](https://twitter.com/qdev0)  
+- **X**: [@qdev0](https://x.com/qdev0)  
 
-Happy prompting...
